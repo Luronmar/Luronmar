@@ -12,8 +12,10 @@
  
  <br>
   Cursos:
+  <div align itens:row;>
 <img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png">
- <br>
+<img src = "https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
+   </div>
   Redes sociais:
 <div> 
   <a href="https://www.youtube.com/Luronmar" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
