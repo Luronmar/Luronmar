@@ -15,11 +15,11 @@
   <div align itens:row;>
 <img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png">
 <img src = "https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
+<img src="https://tse2.mm.bing.net/th?id=OIP.f1OEYjv6zYI9vJAfa6PTIQHaD3&pid=Api&P=0&h=180" height="100" width="160">
    </div>
   Redes sociais:
 <div> 
   <a href="https://www.linkedin.com/in/luigi-ronchi-de-marco-907983274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
